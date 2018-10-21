@@ -1,0 +1,9 @@
+$ git remote add origin https://github.com/vegastristan1/LaModeVineS.git
+$ git add .
+$ git status
+$ git commit -m "Home Page"
+$ git log
+$ git remote -v
+$ git checkout -b tristan
+$ git branch
+$ git push --set-upstream origin tristan
